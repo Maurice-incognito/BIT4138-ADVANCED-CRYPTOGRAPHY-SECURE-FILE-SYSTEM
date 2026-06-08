@@ -1,0 +1,3 @@
+This is my secret document for BIT4138 cryptography.
+My name is Maurice Ochieng.
+AES-256 encryption keeps this file secure.

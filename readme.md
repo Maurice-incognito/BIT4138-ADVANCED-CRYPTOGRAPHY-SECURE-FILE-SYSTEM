@@ -29,6 +29,6 @@ secure-file-encryption/
 └── login.py        # Password hashing system
 
 ## Student
-- Name: [Your Name]
-- Admission: [Your Admission Number]
+- Name: [MAURICE OCHIENG]
+- Admission: [BSCCS/2023/66612]
 - Unit: BIT4138 Advanced Cryptography
